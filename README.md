@@ -29,16 +29,6 @@ A full-stack e-commerce management platform with a React frontend and Spring Boo
 
 ---
 
-## Project Structure
-
-```
-rgecom/
-├── frontend/       # React + Vite app
-└── backend/        # Spring Boot app
-```
-
----
-
 ## Getting Started
 
 ### Backend
@@ -69,14 +59,5 @@ npm run dev
 ```
 
 The app will be available at `http://localhost:5173`.
-
----
-
-## Environment Configuration
-
-| File                                    | Purpose                        |
-|-----------------------------------------|--------------------------------|
-| `backend/src/main/resources/application.properties` | DB URL, credentials, JWT secret |
-| `frontend/.env`                         | API base URL                   |
 
 > Never commit secrets or `.env` files — they are excluded via `.gitignore`.
