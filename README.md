@@ -2,7 +2,7 @@
 
 A full-stack e-commerce management platform with a React frontend and Spring Boot backend.
 
-**Live App:** [https://staging.d4wwnhcgxeinv.amplifyapp.com/](https://staging.d4wwnhcgxeinv.amplifyapp.com/)
+**Live App:** https://project-a66863c7-a9ac-484f-84b.web.app/
 
 ---
 
