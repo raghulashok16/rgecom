@@ -10,7 +10,7 @@ A full-stack e-commerce management platform with a React frontend and Spring Boo
 
 | Layer     | Technology                                      |
 |-----------|-------------------------------------------------|
-| Frontend  | React 19, Vite, Redux, Tailwind CSS, Framer Motion |
+| Frontend  | React 19, Vite, Redux, Tailwind CSS |
 | Backend   | Spring Boot 3, Java, JWT Auth, Swagger          |
 | Database  | MySQL                                           |
 | Hosting   | GCP Platform                          |
