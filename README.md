@@ -13,7 +13,7 @@ A full-stack e-commerce management platform with a React frontend and Spring Boo
 | Frontend  | React 19, Vite, Redux, Tailwind CSS, Framer Motion |
 | Backend   | Spring Boot 3, Java, JWT Auth, Swagger          |
 | Database  | MySQL                                           |
-| Hosting   | AWS Amplify (Frontend)                          |
+| Hosting   | GCP Platform                          |
 
 ---
 
