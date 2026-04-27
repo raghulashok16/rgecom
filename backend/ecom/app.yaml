@@ -1,0 +1,10 @@
+runtime: java17
+
+instance_class: F2
+
+env_variables:
+  SPRING_DATASOURCE_URL: "jdbc:mysql://34.93.203.184:3306/ecom"
+  SPRING_DATASOURCE_USERNAME: "root"
+  SPRING_DATASOURCE_PASSWORD: "14115@Raghul"
+  JWT_SECRET: "7f4c9a2e8d6b1c3f5a9e0d2b7c8f4a6d1e3b9c5f7a2d6e8c"
+  JWT_EXPIRATION: "345600000"

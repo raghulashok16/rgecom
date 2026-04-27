@@ -1,0 +1,26 @@
+export const MONTHS_FULL_R = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+
+export const styles = {
+  page:           'flex-1 overflow-auto bg-[#F4F5F7] p-6',
+  pageHeader:     'flex items-center justify-between mb-6',
+  pageTitle:      'text-lg font-semibold text-gray-800',
+  pageSubtitle:   'text-sm text-gray-400',
+  filterBox:      'flex items-center gap-2 bg-white border border-gray-100 rounded-xl px-4 py-2',
+  filterLabel:    'text-xs text-gray-500 whitespace-nowrap',
+  filterSelect:   'border border-gray-200 rounded-xl px-2 py-1 text-sm text-gray-700 outline-none',
+  sectionLabel:   'text-xs font-bold text-gray-400 uppercase tracking-widest mb-3',
+  cardsGrid2:     'grid grid-cols-2 gap-4 mb-8',
+  cardsGrid1:     'grid grid-cols-2 gap-4',
+  reportCard:     'bg-white rounded-2xl border border-gray-100 shadow-sm p-6 flex flex-col gap-4',
+  iconWrapper:    'w-11 h-11 rounded-xl flex items-center justify-center',
+  reportTitle:    'font-semibold text-gray-800 text-sm',
+  reportDesc:     'text-xs text-gray-400 mt-1 leading-relaxed',
+  generateBtn:    'mt-auto flex items-center justify-center gap-2 w-full py-2 rounded-xl text-xs font-semibold bg-[#1C1C2E] hover:bg-[#2a2a40] text-white transition-colors disabled:opacity-60',
+  spinnerSm:      'w-3.5 h-3.5 border-2 border-white/30 border-t-white rounded-full animate-spin',
+  noDataOverlay:  'fixed inset-0 z-50 flex items-center justify-center bg-black/40',
+  noDataBox:      'bg-white rounded-2xl shadow-2xl p-8 max-w-sm w-full mx-4 flex flex-col items-center gap-4',
+  noDataIcon:     'w-14 h-14 rounded-full bg-yellow-50 flex items-center justify-center',
+  noDataTitle:    'text-gray-800 font-semibold text-base text-center',
+  noDataMsg:      'text-sm text-gray-400 text-center',
+  noDataBtn:      'mt-1 px-8 py-2 bg-[#1C1C2E] hover:bg-[#2a2a40] text-white text-sm font-semibold rounded-xl transition-colors',
+};
